@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hello, I'm Arshit Sharma
+
+🌱 A Budding Programmer | Web Developer | Flutter Enthusiast
+
+💼 Worked on projects with HTML5, CSS3, React, and JavaScript
+
+🚀 Experienced with Flutter and Dart for building cross-platform mobile apps
+
+🐍 Proficient in Python for scripting and application development
+
+🔵 Skilled in C++ for system-level programming and algorithms
+
+🧠 Delved into the fascinating world of Machine Learning
+
+💡 Always eager to learn and collaborate on innovative tech projects
+
+🌍 Let's connect and code the future together!
+
+📧 Reach me at arshitsharma2020@gmail.com
